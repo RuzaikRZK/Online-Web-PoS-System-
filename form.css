@@ -1,0 +1,140 @@
+
+input:focus { 
+   border-color:red;
+	
+
+   
+} 
+
+
+tr{
+	font-size: 20px;
+	color: blue;
+	
+}
+
+td{
+	
+	font-size: 20px;
+	color: grey;
+	
+}
+
+#fname{
+	
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+	
+	
+}
+
+#lname{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+
+	
+}
+
+#email{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+}
+
+#pnumber{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+}
+
+#address1{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+}
+
+#address2{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+}
+
+#city{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+}
+
+#province{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+}
+#nic{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+}
+
+#country{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+}
+
+#submit{
+	
+	border-radius: 5px;
+	color: white;
+	background-color: royalblue;
+	
+	
+}
+
+#reset{
+	border-radius: 5px;
+	color: white;
+	background-color: royalblue;
+	
+	
+	
+}
+
+#nicd{
+		font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+	
+}
+
+#cid{
+	font-size: 12px;
+	height: 30px;
+	width: 300px;
+	
+	
+	
+	
+}
+
+
+
+
